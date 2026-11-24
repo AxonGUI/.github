@@ -7,7 +7,7 @@
 <p align="center"><b>用 Python 写后端，用 Web 写界面。</b><br/>
 PySide6 开窗口，任意前端框架写界面，两侧同名 API 互调，可打包成双击即用的桌面客户端。</p>
 
-<p align="center"><a href="#english">English</a> · <b>简体中文</b></p>
+<p align="center"><a href="#user-content-english">English</a> · <b>简体中文</b></p>
 
 <p align="center">
   <a href="https://axongui.github.io/Axon/"><img src="https://img.shields.io/badge/%E6%96%87%E6%A1%A3-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-3451b2" alt="文档"></a>
@@ -69,8 +69,6 @@ python main.py
 
 
 ---
-
-<a id="english"></a>
 
 ## English
 
