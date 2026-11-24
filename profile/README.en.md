@@ -32,7 +32,9 @@ loop, and JS can `await`. The other direction works the same way —
 `Axon("MainView").DocsJS.someFunc(...)`, plus events in both directions and a key-value store
 shared across windows.
 
-### What is here
+#The chrome is a separate package because "what the window looks like" is not "how the channel works" — skip it if you only want the bridge.
+
+## What is here
 
 | Entry | What it is |
 | --- | --- |
