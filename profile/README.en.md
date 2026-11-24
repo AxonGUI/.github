@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AxonGUI/Axon/main/assets/axon-mark.svg" width="96" alt="Axon" />
-</p>
-
-<h1 align="center">Axon</h1>
-
-<p align="center"><b>Write the backend in Python, the interface in HTML/CSS/JS.</b><br/>
-PySide6 opens the window, any frontend framework draws the UI, both sides expose the same
-API to each other, and it packages into a desktop client you can double-click.</p>
-
 <p align="center"><a href="README.md">简体中文</a> · <b>English</b></p>
 
 <p align="center">
@@ -18,10 +8,6 @@ API to each other, and it packages into a desktop client you can double-click.</
 </p>
 
 ---
-
-<p align="center"><b>Write the backend in Python, the interface in HTML/CSS/JS.</b><br/>
-PySide6 opens the window, any frontend framework draws the UI, both sides expose the same
-API to each other, and it packages into a desktop client you can double-click.</p>
 
 Python and JavaScript, one line each, and you have a cross-process call:
 
