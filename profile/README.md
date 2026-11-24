@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AxonGUI/Axon/main/assets/axon-mark.svg" width="96" alt="Axon" />
-</p>
-
-<h1 align="center">Axon</h1>
-
-<p align="center"><b>用 Python 写后端，用 Web 写界面。</b><br/>
-PySide6 开窗口，任意前端框架写界面，两侧同名 API 互调，可打包成双击即用的桌面客户端。</p>
-
 <p align="center"><a href="README.en.md">English</a> · <b>简体中文</b></p>
 
 <p align="center">
